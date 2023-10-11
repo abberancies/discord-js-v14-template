@@ -1,0 +1,5 @@
+discord.js
+ascii-table
+chalk
+dotenv
+ms
