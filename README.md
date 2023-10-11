@@ -1,7 +1,7 @@
 # Last Updated
 * 11/10/2023
 # Setup
-* [Download]()
+* [Download](https://github.com/abberancies/discord-js-v14-template/releases/tag/Latest)
 # How to run
 * Open the `install.bat` file to install the required packages
 * Paste your bot's token and your bot's id into `.env`
